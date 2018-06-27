@@ -12,5 +12,6 @@ def fizzbuzz(n)
   else
     puts n
   end
+  
 end
   
