@@ -10,7 +10,7 @@ def fizzbuzz(fizz_3, fizz_5, fizz_15)
     puts 'Buzz'
     
   else
-    puts fizz
+    puts "nil"
   end
   
 end
