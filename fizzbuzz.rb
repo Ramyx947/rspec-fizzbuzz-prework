@@ -1,8 +1,8 @@
-def fizzbuzz(num)
+def fizz_3(n)
  
-  if (num%3==0)
+  (n%3==0)
     puts "Fizz"
-    
+  end
     # elsif num = num/5
     # puts "Buzz"
     
