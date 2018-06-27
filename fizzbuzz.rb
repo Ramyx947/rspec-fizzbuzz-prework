@@ -1,4 +1,4 @@
-def fizz_3(n)
+def fizzbuzz(n)
  
   (n/3==0)
     puts "Fizz"
