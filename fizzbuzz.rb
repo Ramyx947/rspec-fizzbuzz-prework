@@ -9,9 +9,9 @@ def fizz_3(n)
     # elsif num = (num/3) && (num/5)
     # puts "FizzBuzz"
     
-  else
-    puts "nil"
+  # else
+  #   puts "nil"
     
-  end
+  # end
   
 end
