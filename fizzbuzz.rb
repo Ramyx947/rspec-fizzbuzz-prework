@@ -1,6 +1,6 @@
 def fizzbuzz(n)
  
-  (n/3==0)
+  if n/3==0
     puts "Fizz"
   end
     # elsif num = num/5
