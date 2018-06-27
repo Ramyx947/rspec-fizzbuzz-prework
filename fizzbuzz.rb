@@ -9,7 +9,7 @@ def fizzbuzz(n)
     puts "Buzz"
     
   else
-    puts x
+    puts n
   end
 end
   
