@@ -1,16 +1,16 @@
-def fizzbuzz(fizz_3, fizz_5, fizz_15)
+def fizzbuzz(n)
 
-  if fizz_15 % 3 == 0 && fizz % 5 == 0
+  if n % 3 == 0 && n % 5 == 0
     puts 'FizzBuzz'
   
-  elsif fizz_3 % 3 == 0
+  elsif n % 3 == 0
     puts 'Fizz'
     
-  elsif fizz_5 % 5 == 0
+  elsif n % 5 == 0
     puts 'Buzz'
     
   else
-    puts "nil"
+    puts n
   end
   
 end
