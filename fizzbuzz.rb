@@ -1,5 +1,5 @@
 def fizzbuzz(n)
- 
+ n=1..100
   if n%3==0
     puts "Fizz"
   
