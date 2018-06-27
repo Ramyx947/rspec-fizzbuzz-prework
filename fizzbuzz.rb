@@ -14,4 +14,3 @@ def fizz_3(n)
     
   # end
   
-end
