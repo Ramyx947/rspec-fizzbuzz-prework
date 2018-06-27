@@ -1,16 +1,16 @@
 def fizzbuzz(n)
 
-  if n % 3 == 0 && n % 5 == 0
-    puts 'FizzBuzz'
+  if n % 3 == 0 && n % 5 == 0 then
+    print 'FizzBuzz'
   
-  elsif n % 3 == 0
-    puts 'Fizz'
+  elsif n % 3 == 0 then
+    print 'Fizz'
     
-  elsif n % 5 == 0
-    puts 'Buzz'
+  elsif n % 5 == 0 then
+    print 'Buzz'
     
   else
-    puts n
+    print n
   end
   
 end
